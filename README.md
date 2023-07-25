@@ -15,7 +15,7 @@ Step 1: clone the repo
 ### linux command
 Step 2: change Directory 
 
-   cd Deploy-Simple-HTML-WebPage-Using-Nginx
+    cd Deploy-Simple-HTML-WebPage-Using-Nginx
 #### with docker To start the application
 
 Step 3: start nginx
